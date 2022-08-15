@@ -1,4 +1,7 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77177&width=435&lines=Ol%C3%A1!+Eu+me+chamo+Luiz+Gustavo;Futuro+desenvolvedor+front-end;Voc%C3%AA+pode+acompanhar+alguns+dos+meus+projetos+aqui+no+meu+github+%3A))](https://git.io/typing-svg)
+### 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Gustavo+;I'm+23+years+old;I+from+Brasil,+DF;I+study+systems+development+at+Cruzeiro do Sul;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
