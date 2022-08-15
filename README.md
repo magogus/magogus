@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77B7B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Gustavo;I'm+23+years+old;I+from+Brasil,+DF;I+study+systems+development+at+Cruzeiro;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+Criador de Conteúdo + Desenvolvedor
+
+Cursand ADS |
+
+Meu foco atualmente esta em Front-End
+
 
 <div align="center">
   <a href="https://github.com/magogus">
