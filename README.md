@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77B7B&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!,+Meu+Nome+é+Luiz+Gustavo;Tenho+23+anos;I+from+Brasil,+DF;I+study+systems+development+at+Cruzeiro;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77B7B&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Luiz+Gustavo;Tenho+23+anos;I+from+Brasil,+DF;I+study+systems+development+at+Cruzeiro;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 Criador de Conteúdo + Desenvolvedor
 
