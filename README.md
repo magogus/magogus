@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Eu+me+chamo+Luiz+Gustavo)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77177&width=435&lines=Ol%C3%A1!+Eu+me+chamo+Luiz+Gustavo;Futuro+desenvolvedor+front-end;Voc%C3%AA+pode+acompanhar+alguns+dos+meus+projetos+aqui+no+meu+github+%3A))](https://git.io/typing-svg)
 
 
 <div align="center">
