@@ -2,7 +2,7 @@
 
 Criador de Conteúdo + Desenvolvedor
 
-Cursand ADS | Ciência de Dados
+Formado em ADS | Ciência de Dados
 
 Meu foco atualmente esta em Front-End
 
